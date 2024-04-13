@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/flyhigh/static/css/main.69043b1d.css",
+    "main.js": "/flyhigh/static/js/main.44526a10.js",
+    "static/js/453.0c0aad0c.chunk.js": "/flyhigh/static/js/453.0c0aad0c.chunk.js",
+    "static/media/bg1.png": "/flyhigh/static/media/bg1.2ad65b3b5feb2764d4bb.png",
+    "static/media/bg3.png": "/flyhigh/static/media/bg3.e42090cb5aaeb0b9fca6.png",
+    "static/media/bg5.png": "/flyhigh/static/media/bg5.115b851fb557a1a973fe.png",
+    "static/media/bg4.png": "/flyhigh/static/media/bg4.aa9156b784a30eca1f5f.png",
+    "static/media/bg2.png": "/flyhigh/static/media/bg2.7f405bd821a4d24d9e06.png",
+    "index.html": "/flyhigh/index.html",
+    "main.69043b1d.css.map": "/flyhigh/static/css/main.69043b1d.css.map",
+    "main.44526a10.js.map": "/flyhigh/static/js/main.44526a10.js.map",
+    "453.0c0aad0c.chunk.js.map": "/flyhigh/static/js/453.0c0aad0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69043b1d.css",
+    "static/js/main.44526a10.js"
+  ]
+}
